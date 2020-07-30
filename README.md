@@ -14,7 +14,7 @@
 ## Стэк технологий:
 Node.js, express.js, ES6, OOP, CSS3, HTML5, BEM
 
-## Пакеты которые используются в сборках:
+## Пакеты, которые используются в сборках:
 - [ESLint](https://www.npmjs.com/package/eslint)
 eslint-config-airbnb-base, eslint-plugin-import
 
