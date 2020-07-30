@@ -7,9 +7,9 @@
 - Создан сервер для проекта Mesto, раздает статику (вебпак проекта https://github.com/Itauiti/webpack-project.git)
 - Обработка ошибок запросов на сервер
 - Настроено 3 роутера: 
-  1. GET localhost:3000/users - раздает JSON-список всех пользователей
-  2. GET localhost:3000/cards - раздает JSON-список всех карточек
-  3. GET localhost:3000/users/8340d0ec33270a25f2413b69 - раздает JSON-пользователя с переданным после /users идентификатором
+  GET localhost:3000/users - раздает JSON-список всех пользователей
+  GET localhost:3000/cards - раздает JSON-список всех карточек
+  GET localhost:3000/users/8340d0ec33270a25f2413b69 - раздает JSON-пользователя с переданным после /users идентификатором
 
 ## Стэк технологий:
 Node.js, express.js, ES6, OOP, CSS3, HTML5, BEM
