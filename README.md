@@ -1,18 +1,20 @@
 Версия 0.0.1
 
 ## О проекте:
-Учебный проект в ЯндексПрактикуме по основам бэкэнда (node.js)
+Учебный проект в ЯндексПрактикуме по основам бэкэнда (node.js) - промежуточный этап изучения node.js.
+Тема введение в node.js и express.js.
+Итоговые наработки по node.js в репозитории https://github.com/Itauiti/mesto_deploy 
 
 ## Основной функционал: 
 1. Создан сервер для проекта Mesto, раздает статику (вебпак проекта https://github.com/Itauiti/webpack-project.git)
 2. Обработка ошибок запросов на сервер
-3. Настроено 3 роутера: 
+3. Настроено 3 роута: 
 - GET localhost:3000/users - раздает JSON-список всех пользователей
 - GET localhost:3000/cards - раздает JSON-список всех карточек
 - GET localhost:3000/users/8340d0ec33270a25f2413b69 - раздает JSON-пользователя с переданным после /users идентификатором
 
 ## Стэк технологий:
-Node.js, express.js, ES6, OOP, CSS3, HTML5, BEM
+Node.js, express.js, ES6, OOP
 
 ## Пакеты, которые используются в сборках:
 - [ESLint](https://www.npmjs.com/package/eslint)
